@@ -1,0 +1,28 @@
+[
+  {
+    "id":1,
+     "name":"Melissa",
+     "age":18,
+     "picture":"https://randomuser.me/api/portraits/women/75.jpg"
+
+  },
+  {
+    "id":2,
+     "name":"Natalie",
+     "age":28,
+     "picture":"https://randomuser.me/api/portraits/women/70.jpg"
+
+  },{
+    "id":3,
+     "name":"Marta",
+     "age":19,
+     "picture":"https://randomuser.me/api/portraits/women/73.jpg"
+
+  },{
+    "id":4,
+     "name":"Beth",
+     "age":28,
+     "picture":"https://randomuser.me/api/portraits/women/65.jpg"
+
+  }
+]
